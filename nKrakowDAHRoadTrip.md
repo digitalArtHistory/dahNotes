@@ -86,6 +86,12 @@ http://dh2016.adho.org/abstracts/2573
 
 p. 400 
 
+### If Paintings were Plants: Measuring Genre Diversity in Seventeenth-Century Dutch Painting and Printmaking
+
+Matthew Lincoln
+
+<http://dh2016.adho.org/abstracts/133>
+
 ## Short Papers
 
 ### Constructing Evidence in the Photographic Archive: The Experience of Digital Humanists 
