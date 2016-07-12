@@ -4,6 +4,7 @@ http://dh2016.adho.org
 
 A quick note about Digital Art History in Digital Humanities 2016 (DH2016) in Kraków.
 
+
 ## Panels
 
 ### Recovering Shared Heritage via Spectral Imaging: Problems, Solutions, Interpretations
@@ -13,6 +14,7 @@ Gregory Heyworth; Michael Phelps; Adrian Wisnicki; Kenneth Boydston; Roger Easto
 http://dh2016.adho.org/abstracts/2586
 
 p. 69
+
 
 ## Workshops
 
@@ -28,7 +30,16 @@ http://dh2016.adho.org/abstracts/2467
 
 p. 939
 
+
 ## Long papers
+
+### A Model for International Cooperation: Emblematica Online and Linked Data in Research and Pedagogy
+
+Wade, M., Han, M., Stäcker, T.
+
+http://dh2016.adho.org/abstracts/91
+
+p. 98
 
 ### Comparing Architectural Floor Plans: New StrategiesNew Digital Tools For Architectural Historians
 
@@ -40,15 +51,23 @@ p. 113
 
 ### Visual Patterns Discovery in Large Databases of Paintings
 
-Isabella di Lenardo; Benoit Seguin; Frédéric Kaplan
+Isabella di Lenardo; Benoit Seguin; Frédéric Kaplan
 
 http://dh2016.adho.org/abstracts/2702
 
 p. 69
 
-### Bretez: Conjugaison du passé au futur
+### Corpus Analyses of Multimodal Narrative: The Example of Graphic Novels
 
-Mylène Pardoen
+Dunst, A., Hartel, R., Hohenstein, S., Laubrock, J.
+
+http://dh2016.adho.org/abstracts/17
+
+p. 178
+
+### Bretez: Conjugaison du passé au futur
+
+Mylène Pardoen
 
 http://dh2016.adho.org/abstracts/2601
 
@@ -80,7 +99,7 @@ p. 344
 
 ### Introducing HistoGraph 2: Exploration of Cultural Heritage Documents Based on Co-Occurrence Graphs
 
-Lars Wieneke; Marten Düring; Daniele Guido
+Lars Wieneke; Marten Düring; Daniele Guido
 
 http://dh2016.adho.org/abstracts/2573
 
@@ -91,6 +110,9 @@ p. 400
 Matthew Lincoln
 
 <http://dh2016.adho.org/abstracts/133>
+
+p. 256
+
 
 ## Short Papers
 
@@ -128,9 +150,25 @@ http://dh2016.adho.org/abstracts/2421
 
 p. 600
 
+### Visualising Cultural Spheres – Virtual Tours and Epigraphical Data
+
+Neovesky, A., Grüntgens, M. 
+
+http://dh2016.adho.org/abstracts/38
+
+p. 635
+
+### Digging the Aboveground: Visual Archeology of an Asylum
+
+Ozludil Altin, B., Wendell, A.
+
+http://dh2016.adho.org/abstracts/371
+
+p. 642
+
 ### Modeling as Discourse: The case for 3D
 
-Marie Giltner Saldaña
+Marie Giltner Saldaña
 
 http://dh2016.adho.org/abstracts/2378
 
@@ -150,6 +188,7 @@ http://dh2016.adho.org/abstracts/2509
 
 p. 706
 
+
 ## Posters
 
 ### Playing With Cultural Heritage Through Digital Gaming: The New Narrative of the ARK4 Project
@@ -168,6 +207,14 @@ http://dh2016.adho.org/abstracts/2700
 
 p. 731
 
+### A Web-based Tool Called Gauntlet: From Iterative Design To Interactive Drawings Annotation
+
+Dessart, G., Sankar, M., Chasapi, A., Bologna, G., Dandarova Robert, Z., Brandt, P.
+
+http://dh2016.adho.org/abstracts/187
+
+p. 778
+
 ### 3D Scanning for Preservation : Difficulties and Dissemination
 
 Graham Fereday ; Michael Mullins ; Richard Webb ; Gary Stringer
@@ -178,11 +225,19 @@ p. 791
 
 ### Moving Images and the Connection to other Media Types
 
-André Kilchenmann; Lukas Rosenthaler
+André Kilchenmann; Lukas Rosenthaler
 
 http://dh2016.adho.org/abstracts/2608
 
 p. 821
+
+### The Garden: A 3D Adventure Puzzle Game Exploring Bosch’s Garden of Earthly Delights
+
+Goins, E., Egert, C., Phelps, A. 
+
+http://dh2016.adho.org/abstracts/203
+
+p. 797
 
 ### Identifying the Same Ukiyo-e Prints from Databases in Dutch and Japanese
 
@@ -206,9 +261,9 @@ http://dh2016.adho.org/abstracts/2420
 
 p. 835
 
-### El Uso de las Tecnologías Digitales para la Difusión del Patrimonio Cultural en México
+### El Uso de las Tecnologías Digitales para la Difusión del Patrimonio Cultural en México
 
-Ernesto Miranda Trigueros; Ernesto Priani Saisó; Isabel Galina Russell
+Ernesto Miranda Trigueros; Ernesto Priani Saisó; Isabel Galina Russell
 
 http://dh2016.adho.org/abstracts/2436
 
@@ -251,4 +306,20 @@ Lauren Tilton; Taylor Arnold; Peter Leonard
 http://dh2016.adho.org/abstracts/2628
 
 p. 903
+
+### Working with WissKI – A Virtual Research Environment for Object Documentation and Object-Based Research
+
+Scholz, M., Merz, D., Goerz, G. 
+
+http://dh2016.adho.org/abstracts/192
+
+p. 944
+
+### Digital Archiving and Storytelling in the Classroom with Omeka and CurateScape
+
+Szabo, V., Jacobs, H., Triplett, E. 
+
+http://dh2016.adho.org/abstracts/51
+
+p. 945
 
