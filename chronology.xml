@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chronology>
+	<event>
+		<date when="2010-03-23">23 mars 2010</date>
+		<note></note>
+	</event>
+	<event>
+		<title>The Van Eyck Project</title>
+		<title type="sub">Visual Arts Network for the Exchange of Cultural Knowledge</title>
+	</event>
+	<event>
+		<title>Europeana</title>
+		<date when="2008-11">novembre 2008</date>
+	</event>
+</chronology>
